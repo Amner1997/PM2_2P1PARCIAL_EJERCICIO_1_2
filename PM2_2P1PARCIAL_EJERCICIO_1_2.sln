@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM2_2P1PARCIAL_EJERCICIO_1_2.Android", "PM2_2P1PARCIAL_EJERCICIO_1_2.Android\PM2_2P1PARCIAL_EJERCICIO_1_2.Android.csproj", "{A73E6998-6A56-437C-A10B-C3873A7A9D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM2_2P1PARCIAL_EJERCICIO_1_2", "PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2.csproj", "{182205B9-CC33-4CB6-BB4C-3ABEE3712678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73E6998-6A56-437C-A10B-C3873A7A9D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73E6998-6A56-437C-A10B-C3873A7A9D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73E6998-6A56-437C-A10B-C3873A7A9D49}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A73E6998-6A56-437C-A10B-C3873A7A9D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73E6998-6A56-437C-A10B-C3873A7A9D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73E6998-6A56-437C-A10B-C3873A7A9D49}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{182205B9-CC33-4CB6-BB4C-3ABEE3712678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182205B9-CC33-4CB6-BB4C-3ABEE3712678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182205B9-CC33-4CB6-BB4C-3ABEE3712678}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{182205B9-CC33-4CB6-BB4C-3ABEE3712678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182205B9-CC33-4CB6-BB4C-3ABEE3712678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182205B9-CC33-4CB6-BB4C-3ABEE3712678}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE79837-7AA8-4228-AC08-01D4B5FB7763}
+	EndGlobalSection
+EndGlobal

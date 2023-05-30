@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2_2P1PARCIAL_EJERCICIO_1_2.MainPage">
+
+    <StackLayout>
+        <Label Text="Nombres" HorizontalOptions="Center" Margin="0,30,290,-15" FontSize="19" TextColor="Black"/>
+        <Frame Padding="5" Margin="15" BackgroundColor="LightSkyBlue">
+        <Entry Text="{Binding Nombres}" />
+        </Frame>
+
+        <Label Text="Apellidos" HorizontalOptions="Center" Margin="0,30,285,-15" FontSize="19" TextColor="Black"/>
+        <Frame Padding="5" Margin="15" BackgroundColor="LightSkyBlue">
+        <Entry Text="{Binding Apellidos}" />
+        </Frame>
+
+        <Label Text="Edad" HorizontalOptions="Center" Margin="0,30,320,-15" FontSize="19" TextColor="Black"/>
+        <Frame Padding="5" Margin="15" BackgroundColor="LightSkyBlue">
+        <Entry Text="{Binding Edad}" />
+        </Frame>
+
+        <Label Text="Correo" HorizontalOptions="Center" Margin="0,30,305,-15" FontSize="19" TextColor="Black"/>
+        <Frame Padding="5" Margin="15" BackgroundColor="LightSkyBlue">
+        <Entry Text="{Binding Correo}" />
+        </Frame>
+    
+        <Button Text="Enviar" Clicked="Enviar_Clicked" Margin="10" BackgroundColor="Orange"/>
+    </StackLayout>
+
+</ContentPage>

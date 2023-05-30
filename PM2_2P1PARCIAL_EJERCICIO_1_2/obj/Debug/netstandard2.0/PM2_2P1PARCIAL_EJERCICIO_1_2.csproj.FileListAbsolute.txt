@@ -1,0 +1,16 @@
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\bin\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.deps.json
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\bin\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.dll
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\bin\Debug\netstandard2.0\ref\PM2_2P1PARCIAL_EJERCICIO_1_2.dll
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\bin\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.pdb
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.csproj.AssemblyReference.cache
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.AssemblyInfoInputs.cache
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.AssemblyInfo.cs
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.csproj.CoreCompileInputs.cache
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.dll
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\refint\PM2_2P1PARCIAL_EJERCICIO_1_2.dll
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\PM2_2P1PARCIAL_EJERCICIO_1_2.pdb
+C:\Users\amner\source\repos\PM2_2P1PARCIAL_EJERCICIO_1_2\PM2_2P1PARCIAL_EJERCICIO_1_2\obj\Debug\netstandard2.0\SegundaPagina.xaml.g.cs

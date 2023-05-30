@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2_2P1PARCIAL_EJERCICIO_1_2.SegundaPagina">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Nombres}"
+           FontSize="20"
+           TextColor="DarkBlue"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           Margin="10" />
+
+            <Label Text="{Binding Apellidos}"
+           FontSize="20"
+           TextColor="DarkBlue"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           Margin="10" />
+
+            <Label Text="{Binding Edad}"
+           FontSize="20"
+           TextColor="DarkBlue"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           Margin="10" />
+
+            <Label Text="{Binding Correo}"
+           FontSize="20"
+           TextColor="DarkBlue"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           Margin="10" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
